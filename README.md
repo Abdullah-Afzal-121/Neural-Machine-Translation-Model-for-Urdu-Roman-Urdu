@@ -17,12 +17,18 @@ It includes training scripts, evaluation notebooks, and a **Streamlit web app** 
 
 ## 📂 Project Structure
 urdu-roman-nmt/
-│── notebooks/ # Jupyter/Colab notebooks for training & testing
-│── app.py # Streamlit translation app
-│── untitled7.py # Core model + training code
-│── phase4_model_and_data.pth # Saved model checkpoint (not included in repo)
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+│── notebooks/ 
+# Jupyter/Colab notebooks for training & testing
+│── app.py
+# Streamlit translation app
+│── Model.py
+# Core model + training code
+│── phase_model_and_data.pth 
+# Saved model checkpoint (not included in repo)
+│── requirements.txt 
+# Dependencies
+│── README.md 
+# Project documentation
 
 ---
 
